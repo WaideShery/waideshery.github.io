@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ua.vchasno.cap.dev",
+    "sha256_cert_fingerprints":
+    ["cd:56:5a:d3:15:07:cb:59:fb:94:0a:24:55:2c:22:87:43:df:22:01:1c:06:57:70:d1:56:6d:b7:eb:96:f8:2f"]
+  }
+}]
